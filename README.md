@@ -2,6 +2,9 @@
 TrackMyDiet is a mobile application that helps you monitor and track your daily diet to maintain a healthy lifestyle. It provides features to track your food intake, record nutrition information, set goals, and also provide food recipe information.
 TrackMyDiet is developed using Kotlin and utilizes an API (https://www.edamam.com/) for retrieving food nutrition and recipe information.
 
+## Demo App
+https://github.com/rayhanmfahrezi/tubes-ABP-trackmydiet/assets/90194397/2a537e08-0a0d-4d39-8e44-61b2371a9412
+
 ## Key Features
 - Set daily calorie goals based on your dietary requirements.
 - Track your daily food intake and record the consumed calories.
