@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrackMyDiet</string>
+    <string name="title_home">Home</string>
+    <string name="title_receipe">Receipe</string>
+    <string name="title_profile">Profile</string>
+</resources>

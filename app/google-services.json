@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618868581154",
+    "project_id": "trackmydiet-63ded",
+    "storage_bucket": "trackmydiet-63ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618868581154:android:761ed858515725e8b53b7b",
+        "android_client_info": {
+          "package_name": "com.rayhan.trackmydiet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618868581154-j7frml3v55i8dskpq9f4k8usm4g8kupc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg6u9IQZsnc_2lw8EEe8rGWb1V_L6PJok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618868581154-j7frml3v55i8dskpq9f4k8usm4g8kupc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
